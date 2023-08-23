@@ -1,4 +1,4 @@
-# dictionary-command-line-tool
+# Command-Line Dictionary 
 
 Welcome to Commandline Dictionary Tool...
 
